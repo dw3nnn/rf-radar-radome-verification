@@ -1,0 +1,36 @@
+Level 2B Robust KPI Summary (Worst-case over angle, 77–81 GHz)
+============================================================
+
+Inputs:
+  Source: ..\..\figures\level2\L2A_results.mat
+  Metrics: |Gamma|max and ILmax (already worst-case across frequency)
+  Robustness: max over angle (and worst of TE/TM)
+
+Material: ABS
+----------------------------
+TE:
+  Worst |G|max over angle: 0.7393 at 60 deg
+  Worst ILmax over angle:  3.4355 dB at 60 deg
+TM:
+  Worst |G|max over angle: 0.1971 at 40 deg
+  Worst ILmax over angle:  0.1721 dB at 40 deg
+
+Polarization-robust (worst of TE/TM):
+  Worst |G|max overall: 0.7393 (TE at 60 deg)
+  Worst ILmax overall:  3.4355 dB (TE at 60 deg)
+
+
+Material: Polycarbonate
+----------------------------
+TE:
+  Worst |G|max over angle: 0.7415 at 60 deg
+  Worst ILmax over angle:  3.4660 dB at 60 deg
+TM:
+  Worst |G|max over angle: 0.1998 at 40 deg
+  Worst ILmax over angle:  0.1769 dB at 40 deg
+
+Polarization-robust (worst of TE/TM):
+  Worst |G|max overall: 0.7415 (TE at 60 deg)
+  Worst ILmax overall:  3.4660 dB (TE at 60 deg)
+
+
